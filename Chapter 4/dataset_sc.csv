@@ -1,0 +1,221 @@
+Prompt,Ideal Response,LLM Response,METEOR_Score
+What is the chemical symbol for gold?,The chemical symbol for gold is Au.,Answer: Gold is represented by the chemical symbol Au.,0.8101794934841405
+What is the largest planet in our solar system?,The largest planet in our solar system is Jupiter.,Answer: Pluto is the largest planet in our solar system.,0.866013071895425
+What is the currency of Japan?,The currency of Japan is the Japanese Yen.,Answer: The currency of Japan is the Japanese yen (JPY).,0.9421702404158545
+What is the capital of South Africa?,"South Africa has three capitals: Pretoria (executive),  Bloemfontein (judicial)  and Cape Town (legislative).",Answer: The capital of South Africa is Pretoria.,0.20499465811965809
+What is the capital of New Zealand?,The capital of New Zealand is Wellington.,Answer: The capital of New Zealand is Wellington.,0.9746570121951219
+Who painted the Mona Lisa?,The Mona Lisa was painted by Leonardo da Vinci.,Answer: Leonardo da Vinci painted the Mona Lisa.,0.7500000000000001
+What year did World War II end?,World War II ended in 1945.,Answer: World War II ended in 1945.,0.9708049886621315
+Who wrote 'To Kill a Mockingbird'?,'To Kill a Mockingbird' was written by Harper Lee.,Answer: Harper Lee wrote 'To Kill a Mockingbird'.,0.7080965909090909
+What is the process by which plants make their own food?,The process by which plants make their own food is photosynthesis.,Answer: The process by which plants make their own food is called photosynthesis.,0.9733514001806685
+What is the highest mountain in Africa?,The highest mountain in Africa is Mount Kilimanjaro.,"Answer: Mount Kilimanjaro, located in Tanzania, is the highest mountain in Africa.",0.8871070383097875
+Who developed the theory of relativity?,The theory of relativity was developed by Albert Einstein.,Answer: Albert Einstein is credited with developing the theory of relativity.,0.7281553398058254
+What is the main ingredient in guacamole?,The main ingredient in guacamole is avocado.,Answer: The main ingredient in guacamole is avocado.,0.9746570121951219
+What is the capital of Australia?,The capital of Australia is Canberra.,Answer: The capital of Australia is Canberra.,0.9708049886621315
+What is the powerhouse of the cell?,The powerhouse of the cell is mitochondria.,Answer: The powerhouse of the cell is the mitochondria.,0.8461972891566266
+What is the freezing point of water in Celsius?,The freezing point of water in Celsius is 0 degrees.,Answer: The freezing point of water in Celsius is 0°C (absolute zero).,0.8578260869565217
+Who wrote 'Romeo and Juliet'?,William Shakespeare wrote 'Romeo and Juliet'.,Answer: William Shakespeare wrote 'Romeo and Juliet'.,0.9746570121951219
+What is the largest ocean on Earth?,The largest ocean on Earth is the Pacific Ocean.,"Answer: The largest ocean on Earth is the Pacific Ocean, which covers approximately 30% of the Earth's surface.",0.7331858407079646
+What is the fastest land animal?,The fastest land animal is the cheetah.,"Answer: The fastest land animal is the cheetah, which can reach speeds of up to 70 miles per hour (112 km/h) on a flat surface.",0.778186274509804
+Who was the first person to walk on the moon?,The first person to walk on the moon was Neil Armstrong.,Answer: Neil Armstrong was the first person to walk on the moon.,0.9653916211293262
+What is the capital of Canada?,The capital of Canada is Ottawa.,Answer: The capital of Canada is Ottawa.,0.9708049886621315
+What year did the Titanic sink?,The Titanic sank in 1912.,Answer: The Titanic sank in 1912.,0.9655017921146953
+What is the smallest planet in our solar system?,The smallest planet in our solar system is Mercury.,Answer: Pluto is the smallest planet in our solar system.,0.866013071895425
+Who wrote '1984'?,George Orwell wrote '1984'.,Answer: George Orwell wrote '1984'.,0.9655017921146953
+What is the study of living organisms called?,The study of living organisms is called biology.,Study of living organisms called: Ecology,0.5499999999999999
+What is the longest river in the world?,The longest river in the world is the Nile River.,"Answer: The Nile River in Egypt is the longest river in the world, spanning over 4,130 miles (6,650 km) from its source in the Blue Nile to the Mediterranean Sea.",0.5125200444060688
+What is the chemical symbol for water?,The chemical symbol for water is H2O.,Answer: Hydrogen (H),0.0
+Who is known as the father of modern physics?,Albert Einstein is known as the father of modern physics.,Answer: Albert Einstein,0.1820388349514563
+What is the primary ingredient in bread?,The primary ingredient in bread is flour.,Answer: The primary ingredient in bread is flour.,0.9746570121951219
+What is the currency of India?,The currency of India is the Indian Rupee.,Answer: The currency of India is the Indian rupee (INR).,0.9421702404158545
+What is the capital of Germany?,The capital of Germany is Berlin.,Answer: The capital of Germany is Berlin.,0.9708049886621315
+Who invented the light bulb?,Thomas Edison invented the light bulb.,Answer: Thomas Edison is credited with inventing the light bulb.,0.9224489795918368
+What is the basic unit of heredity?,The basic unit of heredity is the gene.,Answer: The basic unit of heredity is a gene.,0.8466372282608694
+What is the boiling point of water in Celsius?,The boiling point of water in Celsius is 100 degrees.,Answer: The boiling point of water in Celsius is 100°C (212°F).,0.785141867013212
+Who wrote 'Pride and Prejudice'?,Jane Austen wrote 'Pride and Prejudice'.,Answer: Jane Austen wrote 'Pride and Prejudice.,0.854119425547997
+What is the second largest ocean on Earth?,The second largest ocean on Earth is the Atlantic Ocean.,Response: The second largest ocean on Earth is the Pacific Ocean.,0.8892857142857141
+What gas do plants absorb from the atmosphere?,Plants absorb carbon dioxide from the atmosphere.,Answer: Plants absorb carbon dioxide (CO2) from the atmosphere through photosynthesis.,0.8952945402298852
+What is the largest land animal?,The largest land animal is the African elephant.,"Answer: The largest land animal is the African elephant, which can weigh up to 10,000 pounds (4,500 kg) and stand up to 13 feet (4 meters) tall at the shoulder.",0.6973216154007117
+Who was the first female Prime Minister of the UK?,The first female Prime Minister of the UK was Margaret Thatcher.,Answer: The first female Prime Minister of the UK was Margaret Thatcher.,0.9833219489981786
+What is the capital of Brazil?,The capital of Brazil is Brasilia.,Answer: The capital of Brazil is Brasília.,0.8179012345679012
+What is the chemical symbol for iron?,The chemical symbol for iron is Fe.,"Answer: Iron is represented by the chemical symbol ""Fe"".",0.7466986794717887
+What year did the Berlin Wall fall?,The Berlin Wall fell in 1989.,"Answer: The Berlin Wall fell in 1989, during the Cold War.",0.8733103631062814
+What is the third planet from the sun?,The third planet from the sun is Earth.,Answer: The third planet from the sun is Jupiter.,0.8627717391304347
+Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald wrote 'The Great Gatsby'.,Answer: F.,0.058823529411764705
+What is the study of the Earth's physical structure and substance called?,The study of the Earth's physical structure and substance is called geology.,Study of the Earth's physical structure and substance called: geology.,0.8565647482014387
+What is the highest waterfall in the world?,The highest waterfall in the world is Angel Falls.,Answer: The highest waterfall in the world is the Niagara Falls in Canada and the United States.,0.6314418393929098
+Who is often credited with inventing the World Wide Web?,Tim Berners-Lee is often credited with inventing the World Wide Web.,Insufficient evidence.,0.04504504504504504
+What is the primary ingredient in pasta?,The primary ingredient in pasta is durum wheat semolina.,Answer: The primary ingredient in pasta is flour.,0.6918367346938775
+What is the capital of Russia?,The capital of Russia is Moscow.,Answer: Moscow is the capital of Russia.,0.8815192743764172
+Who invented the printing press?,Johannes Gutenberg invented the movable type printing press.,Answer: The printing press was invented by Johannes Gutenberg in the 15th century.,0.5963010204081632
+What is the name of the process of a liquid turning into a gas?,The process of a liquid turning into a gas is evaporation.,Answer: The process of a liquid turning into a gas is called boiling.,0.8916213129073439
+What is the closest star to Earth?,The closest star to Earth is the Sun.,Answer: The closest star to Earth is Proxima Centauri.,0.7309228039041704
+Who wrote 'The Hobbit'?,J.R.R. Tolkien wrote 'The Hobbit'.,"Answer: The author of ""The Hobbit"" is J.",0.11904761904761905
+What is the main function of red blood cells?,The main function of red blood cells is to carry oxygen from the lungs to the body's tissues.,Answer: The main function of red blood cells is to transport oxygen from the lungs to all parts of the body through the bloodstream.,0.7412570967850304
+What is the largest desert in the world?,The largest desert in the world is the Antarctic Polar Desert.,Answer: The Sahara Desert in North Africa is the largest desert in the world.,0.403225806451613
+Who developed the first successful polio vaccine?,Jonas Salk developed the first successful polio vaccine.,Answer: Jonas Salk.,0.297157622739018
+What is the primary ingredient in chocolate?,The primary ingredient in chocolate is cacao beans.,"Answer: Chocolate is primarily made up of cacao beans, sugar, and possibly milk or cream.",0.446
+What is the currency of Mexico?,The currency of Mexico is the Mexican Peso.,Answer: The currency of Mexico is the Mexican peso (MXN).,0.9421702404158545
+Who invented the first commercially successful automobile?,Karl Benz is widely credited with inventing the first commercially successful automobile.,Answer: The first commercially successful automobile was invented by Karl Benz in Germany in 1885.,0.6421595725078311
+What is the name of the galaxy our solar system is in?,Our solar system is in the Milky Way galaxy.,Answer: The Milky Way.,0.39062499999999994
+Who wrote 'The Odyssey'?,Homer wrote 'The Odyssey'.,Answer: The Odyssey was written by Homer.,0.2380952380952381
+What is the main function of the kidneys?,The main function of the kidneys is to filter waste products and excess water from the blood to produce urine.,Answer: The main function of the kidneys is to filter waste products from the blood and regulate the amount of water in the body.,0.6139052064054076
+What is the longest mountain range on Earth?,The longest mountain range on Earth is the Andes.,"Answer: The Himalayas in South Asia are the longest mountain range on Earth, spanning over 17,000 kilometers (10,500 miles) from north to south.",0.6355932203389831
+Who are considered the founder of the Internet?,Vinton Cerf and Robert Kahn are often considered the founders of the Internet.,"Answer: The founder of the Internet is Tim Berners-Lee, who developed the World Wide Web in 1989.",0.2920471841704718
+What is the primary ingredient in coffee?,The primary ingredient in coffee is roasted coffee beans.,Answer: The primary ingredient in coffee is coffee beans.,0.8861997310842195
+What is the currency of Brazil?,The currency of Brazil is the Brazilian Real.,Answer: The currency of Brazil is the Brazilian real (R$).,0.9323559670781892
+What is the capital of Italy?,The capital of Italy is Rome.,Answer: The capital of Italy is Rome.,0.9708049886621315
+What is the chemical symbol for oxygen?,The chemical symbol for oxygen is O.,Answer: The chemical symbol for oxygen is O.,0.9746570121951219
+What is the average gestation period of a human?,The average gestation period of a human is about 9 months or 40 weeks (280 days).,Answers: The average gestation period of a human is 40 weeks.,0.5917624865253325
+Who wrote 'Alice's Adventures in Wonderland'?,Lewis Carroll (Charles Lutwidge Dodgson) wrote 'Alice's Adventures in Wonderland'.,Answer: Lewis Carroll wrote 'Alice's Adventures in Wonderland'.,0.6775510204081634
+What is the deepest ocean trench?,The deepest ocean trench is the Mariana Trench.,"Answer: The deepest ocean trench is the Mariana Trench, located in the Pacific Ocean, which is approximately 10,928 meters (35,876 feet) deep.",0.5357345112696795
+What is the name of the process by which a solid turns directly into a gas without becoming a liquid?,The process by which a solid turns directly into a gas is sublimation.,"Answer: Compression
+
+Sentence: The process by which a solid turns directly into a gas without becoming a liquid is compression.",0.8043763154759541
+Who painted 'Starry Night'?,Vincent van Gogh painted 'Starry Night'.,Answer: Vincent van Gogh painted 'Starry Night'.,0.9746570121951219
+What is the primary ingredient in tortillas?,The primary ingredient in tortillas is maize (corn) flour or wheat flour.,Insufficient evidence to answer this question.,0.035211267605633804
+What is the currency of Canada?,The currency of Canada is the Canadian Dollar.,Answer: The currency of Canada is the Canadian dollar (CAD).,0.9421702404158545
+What is the capital of Spain?,The capital of Spain is Madrid.,Answer: The capital of Spain is Madrid.,0.9708049886621315
+What is the most abundant gas in Earth's atmosphere?,The most abundant gas in Earth's atmosphere is nitrogen.,Answer: The most abundant gas in Earth's atmosphere is nitrogen (N2).,0.9536471433704636
+What is the largest living organism on Earth?,"The largest living organism on Earth is a honey fungus (Armillaria ostoyae) in Oregon, spanning over 2200 acres.","Answer: The largest living organism on Earth is the blue whale, which can grow up to 100 feet long and weigh over 200 tons.",0.41666666666666663
+Who theorised the existence of black holes?,John Michell and Pierre-Simon Laplace theorised the existence of objects whose gravity is so strong that light cannot escape. Karl Schwarzschild provided the first modern solution.,"Sure! Here's a one-sentence answer:
+
+Answer: Theorists have long speculated about the existence of black holes, but the first person to propose a theory was German physicist Max Planck in 1916.",0.18875838926174496
+What is the primary ingredient in pizza dough?,The primary ingredient in pizza dough is wheat flour.,Insufficient evidence to answer this question.,0.05154639175257732
+What is the currency of Australia?,The currency of Australia is the Australian Dollar.,Answer: The currency of Australia is the Australian dollar (AUD).,0.9421702404158545
+What is the capital of Argentina?,The capital of Argentina is Buenos Aires.,Answer: The capital of Argentina is Buenos Aires.,0.9746570121951219
+What is the chemical symbol for carbon?,The chemical symbol for carbon is C.,Answer: The chemical symbol for carbon is C.,0.9746570121951219
+What is the name of the process of converting light energy into chemical energy in plants?,The process is photosynthesis.,Answer: Photosynthesis,0.10416666666666666
+Who wrote 'The Catcher in the Rye'?,J.D. Salinger wrote 'The Catcher in the Rye'.,"Answer: The novel ""The Catcher in the Rye"" was written by J.",0.4208695652173913
+What is the highest volcano in the world?,The highest volcano in the world is Ojos del Salado.,Answer: Mount Everest (also known as Sagarmatha) is the highest volcano in the world.,0.6657318376068376
+What is the name of the process of breaking down food into nutrients in humans and animals?,The process of breaking down food into nutrients is digestion.,Answer: Digestion.,0.1820388349514563
+Who discovered penicillin?,Alexander Fleming discovered penicillin.,"Answer: Alexander Fleming, a British microbiologist, discovered penicillin in 1928.",0.7559322033898305
+What is the primary ingredient in sushi rice?,The primary ingredient in sushi rice is short-grain Japanese white rice.,Answer: The primary ingredient in sushi rice is rice.,0.7521527129370266
+What is the currency of Germany?,The currency of Germany is the Euro.,Answer: The currency of Germany is the euro (€).,0.9338235294117647
+What is the capital of France?,The capital of France is Paris.,Answer: Paris is the capital of France.,0.8815192743764172
+What is the chemical symbol for sodium?,The chemical symbol for sodium is Na.,"Answer: Na
+
+Suitable response: ""Insufficient evidence""",0.06097560975609756
+What is the average human body temperature in Celsius?,The average human body temperature is approximately 37 degrees Celsius.,Answers: The average human body temperature in Celsius is 37°C (98.,0.6637168141592921
+Who wrote 'War and Peace'?,Leo Tolstoy wrote 'War and Peace'.,Answer: Leo Tolstoy wrote 'War and Peace'.,0.9746570121951219
+What is the deepest lake in the world?,The deepest lake in the world is Lake Baikal.,"Answer: Lake Baikal in Siberia, Russia is the deepest lake in the world, with a maximum depth of 1,643 meters (5,392 feet).",0.7021186440677966
+What is the phenomenon where light bends as it passes from one medium to another?,This phenomenon is refraction.,Response: Insufficient evidence for this phenomenon.,0.48218029350104813
+What is the primary ingredient in traditional hummus?,The primary ingredient in traditional hummus is chickpeas.,Answer: The primary ingredient in traditional hummus is chickpeas.,0.977589908749329
+What is the currency of the United States?,The currency of the United States is the US Dollar.,Answer: The currency of the United States is the US dollar.,0.9817739079102716
+What is the process of a liquid turning into a solid?,The process of a liquid turning into a solid is freezing.,Answer: The process of a liquid turning into a solid is called freezing.,0.9733514001806685
+What is the longest river in South America?,The longest river in South America is the Amazon River.,Answer: The longest river in South America is the Amazon River.,0.9817739079102716
+What is the chemical symbol for sodium chloride?,The chemical symbol for sodium chloride is NaCl.,Answer: The chemical symbol for sodium chloride is NaCl.,0.977589908749329
+What is the main function of the heart?,The main function of the heart is to pump blood throughout the body.,"Answer: The main function of the heart is to pump blood throughout the body, carrying oxygen and nutrients to all parts of the body.",0.8296651994130985
+What is the largest artificial lake in the world?,The largest artificial lake in the world by volume is Lake Kariba.,"Answer: Lake Baikal in Siberia, Russia, is the largest artificial lake in the world.",0.660740740740741
+Who is credited with discovering gravity?,Isaac Newton is credited with discovering gravity.,Answer: Galileo Galilei is credited with discovering gravity.,0.7300135501355014
+What is the currency of Switzerland?,The currency of Switzerland is the Swiss Franc.,Answer: The currency of Switzerland is the Swiss Franc (CHF).,0.9421702404158545
+What is the capital of Portugal?,The capital of Portugal is Lisbon.,Answer: The capital of Portugal is Lisbon.,0.9708049886621315
+What is the chemical symbol for potassium?,The chemical symbol for potassium is K.,Answer: The chemical symbol for potassium is K.,0.9746570121951219
+What is the highest mountain in North America?,The highest mountain in North America is Denali (Mount McKinley).,"Answer: Mount Everest (8,848 meters) is the highest mountain in North America.",0.7599577456036786
+Who wrote 'Moby Dick'?,Herman Melville wrote 'Moby Dick'.,"Answer: The novel ""Moby Dick"" was written by Herman Melville.",0.40990259740259744
+What is the main function of the lungs?,"The main function of the lungs is to facilitate gas exchange, taking in oxygen and expelling carbon dioxide.",Answer: The main function of the lungs is to breathe in oxygen and expel carbon dioxide.,0.7566778900112233
+What is the driest desert in the world?,The driest desert in the world is the Atacama Desert.,Answer: The Sahara Desert in North Africa is the driest desert in the world.,0.43478260869565216
+What is the currency of South Korea?,The currency of South Korea is the South Korean Won.,Answer: The currency of South Korea is the South Korean won (KRW).,0.9536471433704636
+What is the capital of Sweden?,The capital of Sweden is Stockholm.,Answer: Stockholm is the capital of Sweden.,0.8815192743764172
+Who discovered electricity?,"Benjamin Franklin is often credited with discovering electricity through his kite experiment,  though many scientists contributed to understanding it.",Suffice it to say that no one has yet discovered electricity.,0.18507462686567164
+What is the process of a gas turning into a liquid?,The process of a gas turning into a liquid is condensation.,Answer: The process of a gas turning into a liquid is called condensation.,0.9733514001806685
+What is the smallest bird in the world?,The smallest bird in the world is the bee hummingbird.,"Answer: The smallest bird in the world is the Arctic tern (Sterna paradisaea), which has a wingspan of 13–16 cm (5–6 inches).",0.6992669753086421
+Who wrote 'Frankenstein'?,Mary Shelley wrote 'Frankenstein'.,Answer: Mary Shelley wrote 'Frankenstein'.,0.9655017921146953
+What is the longest river in Africa?,The longest river in Africa is the Nile River.,Answer: The Nile River in Egypt is the longest river in Africa.,0.7153846153846154
+What is the chemical symbol for calcium?,The chemical symbol for calcium is Ca.,Answer: The chemical symbol for calcium is Ca.,0.9746570121951219
+What is the main function of the brain?,"The main function of the brain is to control thoughts, memory, emotion, touch, motor skills, vision, breathing, temperature, hunger and every process that regulates our body.","Answer: The main function of the brain is to process, store, and communicate information.",0.3711996019688327
+What is the largest natural lake in Africa?,The largest natural lake in Africa by surface area is Lake Victoria.,Answer: Lake Tanganyika is the largest natural lake in Africa.,0.594315245478036
+What is the currency of Norway?,The currency of Norway is the Norwegian Krone.,Answer: The currency of Norway is the Norwegian krone (NOK).,0.9421702404158545
+What is the capital of Finland?,The capital of Finland is Helsinki.,Answer: The capital of Finland is Helsinki.,0.9708049886621315
+Who invented the airplane?,The Wright brothers (Orville and Wilbur Wright) invented the airplane.,"Answer: The answer is ""no one"" as there is no definitive evidence to suggest that any individual invented the airplane.",0.3432624113475177
+What is the chemical symbol for silver?,The chemical symbol for silver is Ag.,Answer: The chemical symbol for silver is Ag.,0.9746570121951219
+What is the highest mountain in South America?,The highest mountain in South America is Mount Aconcagua.,"Answer: Insufficient evidence suggests that the highest mountain in South America is Aconcagua, which stands at 6,962 meters (22,837 feet) above sea level.",0.7485875706214691
+Who wrote 'Jane Eyre'?,Charlotte Bronte´ wrote 'Jane Eyre'.,Answer: Charlotte Bronte wrote 'Jane Eyre'.,0.8179012345679012
+What is the main function of the liver?,"The main function of the liver is to filter blood coming from the digestive tract,  before passing it to the rest of the body. The liver also detoxifies chemicals and metabolizes drugs.","Answer: The main function of the liver is to process and store food, produce bile, and detoxify the body.",0.28378215191402006
+What is the largest rainforest in the world?,The largest rainforest in the world is the Amazon Rainforest.,"Answer: The largest rainforest in the world is the Amazon rainforest, covering an area of approximately 2.",0.9215917772067507
+Who invented the vaccination?,Edward Jenner is credited with inventing the smallpox vaccine.,"Answer: The vaccination was invented by Edward Jenner, a British physician and scientist.",0.40225366876310265
+What is the currency of Denmark?,The currency of Denmark is the Danish Krone.,Answer: The currency of Denmark is the Danish krone (DKK).,0.9421702404158545
+What is the capital of Ireland?,The capital of Ireland is Dublin.,Answer: The capital of Ireland is Dublin.,0.9708049886621315
+What is the chemical symbol for copper?,The chemical symbol for copper is Cu.,"Answer: Cu
+
+Sentence: Copper is a chemical element with the chemical symbol Cu and atomic number 29.",0.6898846495119786
+What is the highest mountain in Europe?,The highest mountain in Europe is Mount Elbrus.,"Answer: The highest mountain in Europe is Mount Elbrus (5,642 meters/18,532 feet) located in Russia's Caucasus Mountains.",0.8354309001558193
+Who wrote 'Wuthering Heights'?,Emily Bronte´ wrote 'Wuthering Heights'.,Answer: Emily Bronte wrote 'Wuthering Heights'.,0.8179012345679012
+What is the main function of the stomach?,"The main function of the stomach is to digest food by secreting acids and enzymes, and then passing the partially digested food into the small intestine.",Answer: The main function of the stomach is to break down food into smaller particles that can be absorbed by the small intestine for nutrient absorption and energy production.,0.5395723036668418
+What is the largest freshwater lake in North America?,The largest freshwater lake in North America by surface area is Lake Superior.,Answer: Lake Superior is the largest freshwater lake in North America.,0.6893988941078543
+What is the currency of Poland?,The currency of Poland is the Polish Zloty.,Answer: The currency of Poland is the złoty (PLN).,0.7359965262700825
+What is the capital of Greece?,The capital of Greece is Athens.,Answer: The capital of Greece is Athens.,0.9708049886621315
+What is the chemical symbol for lead?,The chemical symbol for lead is Pb.,Answer: The chemical symbol for lead is Pb.,0.9746570121951219
+What is the largest desert in Asia?,The largest desert in Asia is the Gobi Desert.,Answer: The Great Sandy Desert in Australia is the largest desert in Asia.,0.6554967666078777
+Who wrote 'The Grapes of Wrath'?,John Steinbeck wrote 'The Grapes of Wrath'.,Answer: The Grapes of Wrath was written by John Steinbeck.,0.6048387096774195
+What is the main function of the small intestine?,The main function of the small intestine is to absorb nutrients and minerals from food.,Answer: The main function of the small intestine is to break down and absorb nutrients from food into usable forms for the body.,0.820249835634451
+What is the largest island in the world?,The largest island in the world is Greenland.,"Answer: Greenland
+
+Sentence: Greenland is the largest island in the world.",0.9057829759584146
+Who developed the theory of evolution by natural selection?,Charles Darwin developed the theory of evolution by natural selection.,Answer: Charles Darwin,0.1820388349514563
+What is the currency of Hungary?,The currency of Hungary is the Hungarian Forint.,Answer: Hungary uses the euro (EUR) as its official currency.,0.21052631578947367
+What is the capital of Egypt?,The capital of Egypt is Cairo.,Answer: The capital of Egypt is Cairo.,0.9708049886621315
+Who invented the steam engine?,"James Watt significantly improved the steam engine,  though earlier versions existed.",Insufficient evidence suggests that no one invented the steam engine.,0.29296875000000006
+What is the chemical symbol for tin?,The chemical symbol for tin is Sn.,Answer: The chemical symbol for tin is Sn.,0.9746570121951219
+What is the deepest lake in Africa?,The deepest lake in Africa is Lake Tanganyika.,"Answer: Lake Tanganyika, located in Africa, is the deepest lake with a depth of 10,922 feet (3,335 meters).",0.6554967666078777
+Who wrote 'One Hundred Years of Solitude'?,Gabriel Garcia Marquez wrote 'One Hundred Years of Solitude'.,Answer: Gabriel Garcia Marquez wrote 'One Hundred Years of Solitude'.,0.9817739079102716
+What is the main function of the large intestine?,The main function of the large intestine is to absorb water and electrolytes from indigestible food matter and pass unneeded waste material from the body.,Answer: The main function of the large intestine is to process and eliminate waste products from the body.,0.584951881014873
+What is the longest coastline in the world?,The longest coastline in the world belongs to Canada.,"Answer: The longest coastline in the world is the Pacific Coast of North America, which stretches for 14,000 miles (22,500 km) from Mexico to Canada.",0.6856995884773663
+Who invented the telephone?,Alexander Graham Bell invented the telephone.,Answer: The telephone was invented by Alexander Graham Bell.,0.8576944291230005
+What is the currency of Argentina?,The currency of Argentina is the Argentine Peso.,Answer: The currency of Argentina is the Argentine peso (ARS).,0.9421702404158545
+What is the capital of Turkey?,The capital of Turkey is Ankara.,Answer: The capital of Turkey is Ankara.,0.9708049886621315
+What is the chemical symbol for nitrogen?,The chemical symbol for nitrogen is N.,Answer: The chemical symbol for nitrogen is N.,0.9746570121951219
+What is the smallest continent by land area?,The smallest continent by land area is Oceania.,Answer: Antarctica,0.0
+Who wrote 'Brave New World'?,Aldous Huxley wrote 'Brave New World'.,Answer: Aldous Huxley wrote 'Brave New World'.,0.9746570121951219
+What is the main function of the human skeletal system?,"The main function of the human skeletal system is to provide support,  protection for organs,  movement through muscle attachment,  and mineral storage.",Answer: The main function of the human skeletal system is to support and protect the body's internal organs and provide a framework for movement.,0.5874840357598978
+What is the longest mountain range in North America?,The longest mountain range in North America is the Rocky Mountains.,Answer: The longest mountain range in North America is the Rocky Mountains.,0.9833219489981786
+Who invented the radio?,Guglielmo Marconi is widely credited with inventing the radio.,Answer: The radio was invented by Guglielmo Marconi.,0.5111111111111111
+What is the currency of Egypt?,The currency of Egypt is the Egyptian Pound.,Answer: The currency of Egypt is the Egyptian pound (EGP).,0.9421702404158545
+What is the capital of Saudi Arabia?,The capital of Saudi Arabia is Riyadh.,Answer: The capital of Saudi Arabia is Riyadh.,0.9746570121951219
+What is the chemical symbol for helium?,The chemical symbol for helium is He.,Answer: The chemical symbol for helium is He.,0.9746570121951219
+What is the process of a gas turning directly into a solid without becoming a liquid?,The process of a gas turning directly into a solid is deposition.,Answer: The process of a gas turning directly into a solid without becoming a liquid is called vaporization.,0.7889801297648013
+Who wrote 'The Stranger'?,Albert Camus wrote 'The Stranger'.,Answer: The author of 'The Stranger' is Albert Camus.,0.7499999999999999
+What is the largest active volcano in Europe?,The largest active volcano in Europe is Mount Etna.,Answer: Mount Etna in Italy is the largest active volcano in Europe.,0.9307692307692308
+What is the main function of the circulatory system?,"The main function of the circulatory system is to transport blood, oxygen, nutrients, hormones and waste products throughout the body.","Answer: The circulatory system is responsible for transporting oxygen and nutrients throughout the body, maintaining blood pressure, regulating body temperature, and carrying waste products away from the heart and lungs.",0.530950988290605
+Who discovered the structure of DNA?,"James Watson,  Francis Crick, Maurice Wilkins,  and Rosalind Franklin are credited with discovering the structure of DNA.",Answer: James Watson and Francis Crick were the first to discover the structure of DNA.,0.5211425820428468
+What is the currency of South Africa?,The currency of South Africa is the South African Rand.,Answer: The currency of South Africa is the South African rand (ZAR).,0.9536471433704636
+What is the capital of Nigeria?,The capital of Nigeria is Abuja.,Answer: The capital of Nigeria is Abuja.,0.9708049886621315
+What is the chemical symbol for chlorine?,The chemical symbol for chlorine is Cl.,Answer: The chemical symbol for chlorine is Cl.,0.9746570121951219
+What is the largest lake in South America?,The largest lake in South America is Lake Titicaca (by volume) ,"Answer: Lake Titicaca, located in the Andes Mountains of Peru and Bolivia, is the largest lake in South America.",0.5476190476190476
+Who wrote 'Don Quixote'?,Miguel de Cervantes wrote 'Don Quixote'.,Answer: Miguel de Cervantes wrote 'Don Quixote'.,0.9746570121951219
+What is the main function of the immune system?,"The main function of the immune system is to protect the body from harmful substances, germs,  and cell changes that could make you ill.","Answer: The main function of the immune system is to defend the body against foreign invaders, such as viruses, bacteria, and other pathogens.",0.5432554325543256
+What is the longest man-made structure in the world?,The longest man-made structure in the world is the Great Wall of China.,"Answer: The longest man-made structure in the world is the Burj Khalifa in Dubai, United Arab Emirates, which stands at 828 meters (2,716 feet) tall.",0.6165605095541402
+Who invented the computer?,"Charles Babbage is often considered the ""Father of the Computer"" for his conceptual design of the Analytical Engine.",Answer: The first person to invent the computer is Alan Turing.,0.12376237623762375
+What is the currency of Russia?,The currency of Russia is the Russian Ruble.,Answer: The currency of Russia is the Russian ruble (RUB).,0.9421702404158545
+What is the capital of Mexico?,The capital of Mexico is Mexico City.,Answer: Mexico's capital city is Mexico City.,0.6859756097560975
+What is the chemical symbol for uranium?,The chemical symbol for uranium is U.,Answer: The chemical symbol for uranium is U.,0.9746570121951219
+What is the process of breaking down complex molecules into simpler ones?,The process is catabolism.,"Answer: The process of breaking down complex molecules into simpler ones involves several steps, including:
+
+1.",0.39316239316239315
+Who wrote 'Les Miserables'?,Victor Hugo wrote 'Les Miserables'.,Answer: The novel 'Les Misérables' was written by Victor Hugo.,0.48947368421052634
+What is the largest ocean on Earth?,The largest ocean on Earth is the Pacific Ocean.,"Answer: The largest ocean on Earth is the Pacific Ocean, which covers approximately 30% of the Earth's surface.",0.7331858407079646
+Who discovered gravity?,Isaac Newton is often credited with discovering gravity.,Answer: The first person to discover gravity was Galileo Galilei.,0.27479091995221033
+What is the currency of China?,The currency of China is the Chinese Yuan (Renminbi).,Answer: The currency of China is the Renminbi (RMB).,0.7999999999999999
+What is the chemical symbol for aluminium?,The chemical symbol for aluminium is Al.,"Answer: Aluminium (Al)
+
+Sentence: The chemical symbol for aluminium is Al.",0.908203125
+Who wrote 'The Brothers Karamazov'?,Fyodor Dostoevsky wrote 'The Brothers Karamazov'.,Answer: Fyodor Dostoevsky wrote 'The Brothers Karamazov'.,0.9746570121951219
+What is the largest desert in Australia?,The largest desert in Australia is the Great Victoria Desert.,Answer: The largest desert in Australia is the Great Sandy Desert.,0.8892857142857141
+What is the main function of the nervous system?,"The main function of the nervous system is to transmit signals between the brain and the rest of the body,  including internal organs,  to regulate and control most body functions.",Answer: The main function of the nervous system is to transmit signals between different parts of the body and control various bodily functions.,0.5470483990296107
+Who developed the theory of relativity?,Albert Einstein developed the theory of relativity.,Answer: Albert Einstein.,0.33189033189033185
+What is the chemical symbol for silicon?,The chemical symbol for silicon is Si.,Answer: The chemical symbol for silicon is Si.,0.9746570121951219
+What is the largest volcano in the world (by mass/volume)?,The largest volcano in the world by mass and volume is Mauna Loa in Hawaii.,Answer: Mount Everest (by volume),0.06578947368421052
+Who wrote 'The Divine Comedy'?,Dante Alighieri wrote 'The Divine Comedy'.,Answer: Dante Alighieri wrote 'The Divine Comedy.,0.854119425547997
+What is the largest organ in the human body?,The largest organ in the human body is the skin.,Answer: The largest organ in the human body is the brain.,0.8892857142857141
+What is the longest river in Asia?,The longest river in Asia is the Yangtze River.,"Answer: The longest river in Asia is the Yangtze River, which is 6,400 miles long.",0.8962962962962964
+What is the currency of the United Kingdom?,The currency of the United Kingdom is the Pound Sterling.,Answer: The currency of the United Kingdom is the pound sterling (GBP).,0.9536471433704636
+What is the capital of India?,The capital of India is New Delhi.,Answer: Delhi is the capital of India.,0.783572688334593
+What is the chemical symbol for phosphorus?,The chemical symbol for phosphorus is P.,Answer: The chemical symbol for phosphorus is P.,0.9746570121951219
+What is the name of the process of a gas turning into a plasma?,The process is ionization.,Answer: The process of a gas turning into a plasma is called plasma discharge.,0.5174180327868853
+Who wrote 'Crime and Punishment'?,Fyodor Dostoevsky wrote 'Crime and Punishment'.,Answer: Dostoevsky wrote 'Crime and Punishment'.,0.8629377676996723
+What is the largest desert in South America?,The largest desert in South America is the Atacama Desert.,Answer: The largest desert in South America is the Atacama Desert.,0.9817739079102716
+What is the currency of France?,The currency of France is the Euro.,Answer: The currency of France is the Euro (EUR).,0.9338235294117647
+What is the chemical symbol for hydrogen?,The chemical symbol for hydrogen is H.,Answer: Hydrogen is represented by the chemical symbol H.,0.8101794934841405
+What is the average number of bones in the adult human body?,The average number of bones in the adult human body is 206.,Answers: The average number of bones in the adult human body is 206.,0.9846243500089654
+What is the largest forest in the world?,The largest forest in the world is the Taiga (Boreal Forest).,"Answer: The largest forest in the world is the Amazon rainforest, covering an area of over 19 million square kilometers (7.",0.6208609271523179
+What is the name of the process of generating heat from an exothermic reaction?,This process is combustion.,Answer: The process of generating heat from an exothermic reaction is called combustion.,0.5260416666666669
